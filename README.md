@@ -1,8 +1,12 @@
 # MAESTRO: Multi-Agent Explainable System for Textual Rating Omniform
 
-## Overview
+## 🧑🏻‍🏫Overview
 
-MAESTRO, standing for Multi-Agent Explainable System for Textual Rating Omniform, is a cutting-edge AI system designed to grade and analyze textual content across a variety of forms and complexities. Inspired by the Spanish word for "teacher," MAESTRO embodies the essence of guidance and knowledge impartation. It utilizes a multi-agent approach to collaboratively tackle the task, with each agent capable of independent decision-making, yet working in harmony towards a common goal. The system's core lies in its ability to offer transparent, explainable insights into its decision-making processes, much like a skilled educator would. This allows users to understand and evaluate textual content more effectively, enhancing their reading and comprehension skills in our information-saturated world.
+MAESTRO, standing for **M**ulti-**A**gent **E**xplainable **S**ystem for **T**extual **R**ating **O**mniform, is a cutting-edge AI system designed to grade and analyze textual content across a variety of forms and complexities. 
+
+Inspired by the Spanish word for "teacher," **MAESTRO** embodies the essence of guidance and knowledge impartation. It utilizes a multi-agent approach to collaboratively tackle the task, with each agent capable of independent decision-making, yet working in harmony towards a common goal. 
+
+The system's core lies in its ability to offer transparent, explainable insights into its decision-making processes, much like a skilled educator would. This allows users to understand and evaluate textual content more effectively, enhancing their reading and comprehension skills in our information-saturated world.
 
 ### Features
 
@@ -13,44 +17,50 @@ MAESTRO, standing for Multi-Agent Explainable System for Textual Rating Omniform
 
 ## Getting Started
 
-To get started with MAESTRO, please follow the instructions below:
+To get started with **MAESTRO**, please follow the instructions below:
 
 ### Prerequisites
 
-- Python 3.8 or later
-- [List any other requirements]
+- Please kindly refer to `dependencies.txt`.
 
 ### Installation
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/maestro.git
 
-# Navigate to the project directory
-cd maestro
 
 # Install dependencies
-pip install -r requirements.txt
+pip install -r dependencies.txt
 ```
 
 ### Usage
 
-```python
-# Example code on how to use MAESTRO
+```
+Under Construction
 ```
 
 ## How It Works
 
-[Provide a brief overview of how MAESTRO works, its architecture, and any algorithms it might use.]
-
+```
+Under Construction
+```
 ## Contributing
 
-We welcome contributions to the MAESTRO project! Whether you're interested in fixing bugs, adding new features, or improving documentation, your help is greatly appreciated. Please read our [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to make a contribution.
+We are an exuberant student team from BUPT, Beijing, comprising quasi-experts from various domains ranging from **CS, AI, NLP, Comm. Tech., to Linguistics**. Our ultimate vision is boundless and this repository is our square one.
+
+Therefore, we welcome contributions to the MAESTRO project! Whether you're interested in fixing bugs, adding new features, or improving documentation, your help is greatly appreciated. Please read our [CONTRIBUTING.md](CONTRIBUTING.md) (also under construction) for guidelines on how to make a contribution.
 
 ## License
 
-[Specify the license under which MAESTRO is released, e.g., MIT, GPL, etc.]
-
+```
+Under Construction
+```
 ## Acknowledgments
 
-[Optional: A section to thank contributors, mentors, or anyone else who helped with the project.]
+```
+Under Construction
+```
+
+## Any Questions?
+
+Please contact: `mayiran@bupt.edu.cn`
